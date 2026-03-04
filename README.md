@@ -48,7 +48,7 @@ The following technologies were used in this project:
 ## 4. Project Structure
 
 The project follows the structure below:
-<img width="313" height="510" alt="image" src="https://github.com/user-attachments/assets/c8553af0-80ce-4705-89a9-dd6e8ccb3745" />
+<img width="313" height="510" alt="image" src="screens/1.png" />
 
 
 ATELIER-REACT-HOOKS │ ├── node_modules ├── public │ ├── src │ ├── assets
@@ -146,7 +146,7 @@ src/components/BookLike.jsx
 
 Image:
 
-<img width="1190" height="722" alt="image" src="https://github.com/user-attachments/assets/8ced2cd3-435b-4bd3-981d-868fc91d6723" />
+<img width="1190" height="722" alt="image" src="screens/2.png" />
 
 ------------------------------------------------------------------------
 
@@ -156,7 +156,7 @@ src/App.jsx
 
 Image:
 
-<img width="1181" height="822" alt="image" src="https://github.com/user-attachments/assets/331f351f-cfc8-4614-a2bf-2c27ed3f6af1" />
+<img width="1181" height="822" alt="image" src="screens/3.png" />
 
 ------------------------------------------------------------------------
 
@@ -166,19 +166,21 @@ src/index.css
 
 Image:
 
-<img width="1172" height="761" alt="image" src="https://github.com/user-attachments/assets/75d7de1d-7774-4306-bc53-3dfcfaffc865" />
+<img width="1172" height="761" alt="image" src="screens/4.png" />
 
 ## Resultat
 
 Image:
 
-<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/5ecc58e5-825d-45d8-a72d-9b1670b35b6d" />
+<img width="1919" height="1023" alt="image" src="screens/6.png" />
 
-<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/bce51bf5-35ec-4fae-9363-d996bbff29d7" />
+<img width="1919" height="1014" alt="image" src="screens/7.png" />
 
-<img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/289172b2-a046-483c-9d9a-70be2b3b16aa" />
+<img width="1918" height="1008" alt="image" src="screens/8.png" />
 
-<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/87dab401-a2f2-49c9-a624-a3e2fd099c30" />
+<img width="1919" height="1020" alt="image" src="screens/9.png" />
+
+<img width="1919" height="1020" alt="image" src="screens/10.png" />
 
 ------------------------------------------------------------------------
 
